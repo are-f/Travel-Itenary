@@ -1,0 +1,16 @@
+﻿Activity ID,Activity Name,City,Activity Type,Event Category,Budget/Price (AED),Availability,Duration (hours),Opening Hours,Target Audience,Ratings and Reviews,Inclusions/Exclusions
+ACT_001,Burj Khalifa - At The Top (L124 & 125),Dubai,Ground,Sightseeing,169,Daily,2,10:00 - 22:00,"Family-friendly, Couples",4.7 (25432),Includes: Entry ticket. Excludes: Souvenirs.
+ACT_002,Premium Desert Safari with BBQ Dinner,Dubai,Ground,Adventure,250,Daily,6,15:00 - 21:00,"Adventure Seekers, Groups",4.8 (18765),"Includes: Hotel pickup, BBQ dinner. Excludes: Alcohol."
+ACT_003,Sheikh Zayed Grand Mosque Tour,Abu Dhabi,Ground,Culture,0,Daily,1.5,09:00 - 22:00,All,4.9 (45210),Includes: Free entry. Excludes: Transport.
+ACT_004,Kayaking in the Eastern Mangroves,Abu Dhabi,Water,Nature,160,Daily,2,08:00 - 17:00,"Solo Travelers, Couples",4.6 (2341),"Includes: Kayak, guide. Excludes: Meals."
+ACT_005,Skydive over The Palm,Dubai,Air,Adrenaline,2199,Daily,3,08:00 - 16:00,Adventure Seekers,4.9 (9870),"Includes: Photos, video. Excludes: Insurance."
+ACT_006,Ferrari World General Admission,Abu Dhabi,Ground,Theme Park,325,Daily,8,11:00 - 20:00,Family-friendly,4.5 (15600),"Includes: All rides. Excludes: Food, special karts."
+ACT_007,Jebel Jais Zipline Flight,Ras Al Khaimah,Air,Adrenaline,360,Wed-Sun,1,09:30 - 16:00,Adventure Seekers,4.8 (4500),"Includes: Safety gear, zipline flight. Excludes: Transport."
+ACT_008,Louvre Abu Dhabi Entry Ticket,Abu Dhabi,Ground,Art & Culture,63,Tue-Sun,3,10:00 - 18:30,"Art Lovers, Couples",4.7 (11234),Includes: Entry to galleries. Excludes: Special exhibitions.
+ACT_009,Dubai Fountain Show and Lake Ride,Dubai,Water,Entertainment,65,Daily,0.5,18:00 - 23:00,All,4.6 (12987),Includes: Abra boat ride. Excludes: N/A.
+ACT_010,Al Noor Island Butterfly House,Sharjah,Ground,Nature,35,Daily,1.5,09:00 - 23:00,Family-friendly,4.5 (1800),Includes: Entry to island and house. Excludes: Cafe.
+ACT_011,Dhow Cruise Dinner in Dubai Marina,Dubai,Water,Culinary,150,Daily,2,19:30 - 21:30,"Couples, Groups",4.3 (7890),"Includes: Buffet dinner, entertainment. Excludes: Alcohol."
+ACT_012,Warner Bros. World Admission,Abu Dhabi,Ground,Theme Park,325,Daily,8,11:00 - 20:00,Family-friendly,4.6 (12345),Includes: All rides and shows. Excludes: Food.
+ACT_013,Scuba Diving in Fujairah,Fujairah,Water,Adventure,400,Fri-Sat,4,08:00 - 12:00,Adventure Seekers,4.7 (950),"Includes: Equipment, instructor. Excludes: Transport to Fujairah."
+ACT_014,Global Village Entry Ticket,Dubai,Ground,Entertainment,25,Oct-Apr,5,16:00 - 00:00,All,4.8 (35000),"Includes: Entry only. Excludes: Rides, food."
+ACT_015,Gold Souk Shopping Experience,Dubai,Ground,Shopping,0,Daily,2,10:00 - 22:00,Adults,4.4 (8765),Includes: Entry to area. Excludes: Purchases.
